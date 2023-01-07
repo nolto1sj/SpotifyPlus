@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpotifyPlus
 build_property.RootNamespace = SpotifyPlus
-build_property.ProjectDir = H:\PersonalCode\SpotifyPlus\
+build_property.ProjectDir = C:\Users\switc\source\repos\SpotifyPlus\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = H:\PersonalCode\SpotifyPlus
+build_property.MSBuildProjectDirectory = C:\Users\switc\source\repos\SpotifyPlus
 build_property._RazorSourceGeneratorDebug = 
 
-[H:/PersonalCode/SpotifyPlus/Views/Home/Index.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/Home/Privacy.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/Shared/Error.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/_ViewImports.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/_ViewStart.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/PersonalCode/SpotifyPlus/Views/Shared/_Layout.cshtml]
+[C:/Users/switc/Source/Repos/SpotifyPlus/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6turnojpnc

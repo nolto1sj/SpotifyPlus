@@ -1,18 +1,33 @@
-﻿namespace SpotifyPlus.Services
+﻿using Newtonsoft.Json;
+
+namespace SpotifyPlus.Services
 {
+    public class SpotifyAuthToken
+    {
+        [JsonProperty("access_token")]
+        public string AccessToken;
+        [JsonProperty("token_type")]
+        public string TokenType;
+        [JsonProperty("expires_in")]
+        public int TimeToLive;
+        public DateTime ExpireTime;
+
+    }
+
     public class SpotifyAuth
     {
         private readonly string _clientId = "818e44b14cf64fdca299229621e4827a";
         private readonly string _clientSecret = "cf0023b3db254de1b5ca01e7c29ff94f";
-        private string _authToken;
+        public SpotifyAuthToken _authToken;
         static readonly HttpClient client = new HttpClient();
 
-        public SpotifyAuth() 
-        {
 
+        public bool IsTokenFresh()
+        {
+            return _authToken != null && DateTime.Now < _authToken.ExpireTime;
         }
 
-        public async void RefreshAuthToken()
+        public async Task<bool> RefreshAuthToken()
         {
             var clientInfo = System.Text.Encoding.UTF8.GetBytes(this._clientId + ":" + this._clientSecret);
            
@@ -29,18 +44,18 @@
                 response.EnsureSuccessStatusCode();
                 string responseBody = await response.Content.ReadAsStringAsync();
 
-                Console.WriteLine(responseBody);
+                _authToken = JsonConvert.DeserializeObject<SpotifyAuthToken>(responseBody);
+
+                _authToken.ExpireTime = DateTime.Now.AddSeconds(_authToken.TimeToLive);
+                return true;
+
             }
             catch (HttpRequestException e)
             {
                 Console.WriteLine("\nException Caught!");
                 Console.WriteLine("Message :{0} ", e.Message);
+                return false;
             }
         }
-        public void MakeAuthorizedCall()
-        {
-
-        }
-
     }
 }

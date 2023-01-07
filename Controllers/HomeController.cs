@@ -15,9 +15,9 @@ namespace SpotifyPlus.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            _spotifyService.spotifyAuth.RefreshAuthToken();
+            await _spotifyService.Get("search?q=damn&type=album&market=US&limit=24");
             return View();
         }
 
