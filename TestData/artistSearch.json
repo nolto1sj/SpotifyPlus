@@ -1,0 +1,1094 @@
+{
+    "albums": {
+        "href": "https://api.spotify.com/v1/search?query=damn&type=album&market=US&offset=0&limit=24",
+        "items": [
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/4eLPsYPBmXABThSJ821sqY",
+                "id": "4eLPsYPBmXABThSJ821sqY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+                        "width": 64
+                    }
+                ],
+                "name": "DAMN.",
+                "release_date": "2017-04-14",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+                        "id": "4tX2TplrkIP4v05BNC903e",
+                        "name": "Tom Petty and the Heartbreakers",
+                        "type": "artist",
+                        "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+                },
+                "href": "https://api.spotify.com/v1/albums/708Whrc4abJEtqBINv9S2b",
+                "id": "708Whrc4abJEtqBINv9S2b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ebca7d93f21ba366fe005966",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ebca7d93f21ba366fe005966",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ebca7d93f21ba366fe005966",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn The Torpedoes (Deluxe Edition)",
+                "release_date": "1979-10-19",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:708Whrc4abJEtqBINv9S2b"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+                },
+                "href": "https://api.spotify.com/v1/albums/4JApkbiesQxv5drdEZRlZC",
+                "id": "4JApkbiesQxv5drdEZRlZC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b817e721691aff3d67f26c04",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b817e721691aff3d67f26c04",
+                        "width": 64
+                    }
+                ],
+                "name": "About Damn Time",
+                "release_date": "2022-04-14",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4JApkbiesQxv5drdEZRlZC"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68"
+                },
+                "href": "https://api.spotify.com/v1/albums/0bLXUfNT34mna9aXq8ex68",
+                "id": "0bLXUfNT34mna9aXq8ex68",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732171b967bef683ab0eaf12e9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022171b967bef683ab0eaf12e9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512171b967bef683ab0eaf12e9",
+                        "width": 64
+                    }
+                ],
+                "name": "DAMN.",
+                "release_date": "2017-04-13",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:0bLXUfNT34mna9aXq8ex68"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4alcGHjstaALJHHiljfy3H"
+                },
+                "href": "https://api.spotify.com/v1/albums/4alcGHjstaALJHHiljfy3H",
+                "id": "4alcGHjstaALJHHiljfy3H",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273add9eb25744782c3717c9368",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02add9eb25744782c3717c9368",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851add9eb25744782c3717c9368",
+                        "width": 64
+                    }
+                ],
+                "name": "DAMN. COLLECTORS EDITION.",
+                "release_date": "2017-12-08",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:4alcGHjstaALJHHiljfy3H"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+                        "id": "6roFdX1y5BYSbp60OTJWMd",
+                        "name": "Tim McGraw",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+                },
+                "href": "https://api.spotify.com/v1/albums/4js8lX2b3DBIfixMCPABC4",
+                "id": "4js8lX2b3DBIfixMCPABC4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734e3efb30c7b2e3ac54bf75ba",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024e3efb30c7b2e3ac54bf75ba",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514e3efb30c7b2e3ac54bf75ba",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn Country Music",
+                "release_date": "2015-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:4js8lX2b3DBIfixMCPABC4"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+                        "id": "02kJSzxNuaWGqwubyUba0Z",
+                        "name": "G-Eazy",
+                        "type": "artist",
+                        "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+                },
+                "href": "https://api.spotify.com/v1/albums/1VAc77UvK5wj8ZSWCo3V2b",
+                "id": "1VAc77UvK5wj8ZSWCo3V2b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273046527a9c176f7c2916f3530",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02046527a9c176f7c2916f3530",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851046527a9c176f7c2916f3530",
+                        "width": 64
+                    }
+                ],
+                "name": "The Beautiful & Damned",
+                "release_date": "2017-12-15",
+                "release_date_precision": "day",
+                "total_tracks": 20,
+                "type": "album",
+                "uri": "spotify:album:1VAc77UvK5wj8ZSWCo3V2b"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2hmePXeTr2b7cdRAtRjvPq",
+                        "id": "2hmePXeTr2b7cdRAtRjvPq",
+                        "name": "Jeris Johnson",
+                        "type": "artist",
+                        "uri": "spotify:artist:2hmePXeTr2b7cdRAtRjvPq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6CTStccOisUTgXVrtCIANm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6CTStccOisUTgXVrtCIANm",
+                        "id": "6CTStccOisUTgXVrtCIANm",
+                        "name": "Ricky Desktop",
+                        "type": "artist",
+                        "uri": "spotify:artist:6CTStccOisUTgXVrtCIANm"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/31bGWff2X7rlk9OPNv8QY9"
+                },
+                "href": "https://api.spotify.com/v1/albums/31bGWff2X7rlk9OPNv8QY9",
+                "id": "31bGWff2X7rlk9OPNv8QY9",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730ea8ca030ee2ead1059f561d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020ea8ca030ee2ead1059f561d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510ea8ca030ee2ead1059f561d",
+                        "width": 64
+                    }
+                ],
+                "name": "damn!",
+                "release_date": "2020-09-30",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:31bGWff2X7rlk9OPNv8QY9"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6BRxQ8cD3eqnrVj6WKDok8",
+                        "id": "6BRxQ8cD3eqnrVj6WKDok8",
+                        "name": "Ella Langley",
+                        "type": "artist",
+                        "uri": "spotify:artist:6BRxQ8cD3eqnrVj6WKDok8"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
+                },
+                "href": "https://api.spotify.com/v1/albums/7zdOR8OO3NCAzsDtFui5Je",
+                "id": "7zdOR8OO3NCAzsDtFui5Je",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735c28f2f9e4269df9944cac7a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025c28f2f9e4269df9944cac7a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515c28f2f9e4269df9944cac7a",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn You",
+                "release_date": "2022-04-01",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:7zdOR8OO3NCAzsDtFui5Je"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KbiLoVLLIHM5vZ0RM9WMU",
+                        "id": "5KbiLoVLLIHM5vZ0RM9WMU",
+                        "name": "Pecos & the Rooftops",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KbiLoVLLIHM5vZ0RM9WMU"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4KFp8O0ruq7DsaEbU57eNs"
+                },
+                "href": "https://api.spotify.com/v1/albums/4KFp8O0ruq7DsaEbU57eNs",
+                "id": "4KFp8O0ruq7DsaEbU57eNs",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730b8cd57a2d5194d3acb76e00",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020b8cd57a2d5194d3acb76e00",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510b8cd57a2d5194d3acb76e00",
+                        "width": 64
+                    }
+                ],
+                "name": "This Damn Song",
+                "release_date": "2019-04-20",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4KFp8O0ruq7DsaEbU57eNs"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+                },
+                "href": "https://api.spotify.com/v1/albums/7ycBtnsMtyVbbwTfJwRjSP",
+                "id": "7ycBtnsMtyVbbwTfJwRjSP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1",
+                        "width": 64
+                    }
+                ],
+                "name": "To Pimp A Butterfly",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:7ycBtnsMtyVbbwTfJwRjSP"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2hmePXeTr2b7cdRAtRjvPq",
+                        "id": "2hmePXeTr2b7cdRAtRjvPq",
+                        "name": "Jeris Johnson",
+                        "type": "artist",
+                        "uri": "spotify:artist:2hmePXeTr2b7cdRAtRjvPq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6CTStccOisUTgXVrtCIANm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6CTStccOisUTgXVrtCIANm",
+                        "id": "6CTStccOisUTgXVrtCIANm",
+                        "name": "Ricky Desktop",
+                        "type": "artist",
+                        "uri": "spotify:artist:6CTStccOisUTgXVrtCIANm"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7fJYw1vK9yWb8o51I8qHin",
+                        "id": "7fJYw1vK9yWb8o51I8qHin",
+                        "name": "Chad Kroeger",
+                        "type": "artist",
+                        "uri": "spotify:artist:7fJYw1vK9yWb8o51I8qHin"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7uBMM4RKTEIwQkxUfZq8vR"
+                },
+                "href": "https://api.spotify.com/v1/albums/7uBMM4RKTEIwQkxUfZq8vR",
+                "id": "7uBMM4RKTEIwQkxUfZq8vR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273499bbad3da4634c85a2981b2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02499bbad3da4634c85a2981b2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851499bbad3da4634c85a2981b2",
+                        "width": 64
+                    }
+                ],
+                "name": "damn! (with Chad Kroeger) [Remix]",
+                "release_date": "2020-12-04",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:7uBMM4RKTEIwQkxUfZq8vR"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+                        "id": "0p4nmQO2msCgU4IF37Wi3j",
+                        "name": "Avril Lavigne",
+                        "type": "artist",
+                        "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+                },
+                "href": "https://api.spotify.com/v1/albums/6lqE05fiHWJVYYdMVJNj38",
+                "id": "6lqE05fiHWJVYYdMVJNj38",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02476cdf5837ae39eee951cc15",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851476cdf5837ae39eee951cc15",
+                        "width": 64
+                    }
+                ],
+                "name": "The Best Damn Thing (Expanded Edition)",
+                "release_date": "2007-04-17",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:6lqE05fiHWJVYYdMVJNj38"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2OqENqJFXPORP4BUGnu2Qq",
+                        "id": "2OqENqJFXPORP4BUGnu2Qq",
+                        "name": "Youngbloodz",
+                        "type": "artist",
+                        "uri": "spotify:artist:2OqENqJFXPORP4BUGnu2Qq"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2QCrMDyGPfCVlfnKYrH17B"
+                },
+                "href": "https://api.spotify.com/v1/albums/2QCrMDyGPfCVlfnKYrH17B",
+                "id": "2QCrMDyGPfCVlfnKYrH17B",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27385d3fa492382aad59f9eba5d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0285d3fa492382aad59f9eba5d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485185d3fa492382aad59f9eba5d",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn! (feat. Lil' Jon)",
+                "release_date": "2003-06-30",
+                "release_date_precision": "day",
+                "total_tracks": 2,
+                "type": "album",
+                "uri": "spotify:album:2QCrMDyGPfCVlfnKYrH17B"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/43s6uFZrdusv7ggmDSpO41",
+                        "id": "43s6uFZrdusv7ggmDSpO41",
+                        "name": "TaTa",
+                        "type": "artist",
+                        "uri": "spotify:artist:43s6uFZrdusv7ggmDSpO41"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/78eGPXkuN4culLr4LuS0xc"
+                },
+                "href": "https://api.spotify.com/v1/albums/78eGPXkuN4culLr4LuS0xc",
+                "id": "78eGPXkuN4culLr4LuS0xc",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273580204344803d2c6b7262f1f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02580204344803d2c6b7262f1f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851580204344803d2c6b7262f1f",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn",
+                "release_date": "2022-05-06",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:78eGPXkuN4culLr4LuS0xc"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ZV6lGY0prbqpTD0Md8i29",
+                        "id": "6ZV6lGY0prbqpTD0Md8i29",
+                        "name": "Scotty McCreery",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ZV6lGY0prbqpTD0Md8i29"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3WOFt4KvKhIeHN4fckCf5y",
+                "id": "3WOFt4KvKhIeHN4fckCf5y",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730b7e96d3376e5fedf674f1c4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020b7e96d3376e5fedf674f1c4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510b7e96d3376e5fedf674f1c4",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn Strait",
+                "release_date": "2021-09-14",
+                "release_date_precision": "day",
+                "total_tracks": 5,
+                "type": "album",
+                "uri": "spotify:album:3WOFt4KvKhIeHN4fckCf5y"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+                },
+                "href": "https://api.spotify.com/v1/albums/3DGQ1iZ9XKUQxAUWjfC34w",
+                "id": "3DGQ1iZ9XKUQxAUWjfC34w",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d58e537cea05c2156792c53d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d58e537cea05c2156792c53d",
+                        "width": 64
+                    }
+                ],
+                "name": "good kid, m.A.A.d city (Deluxe)",
+                "release_date": "2012",
+                "release_date_precision": "year",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:3DGQ1iZ9XKUQxAUWjfC34w"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2oX42qP5ineK3hrhBECLmj",
+                        "id": "2oX42qP5ineK3hrhBECLmj",
+                        "name": "Andy Grammer",
+                        "type": "artist",
+                        "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs"
+                },
+                "href": "https://api.spotify.com/v1/albums/4gi9J69znig8ZUb9OhdUCs",
+                "id": "4gi9J69znig8ZUb9OhdUCs",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736d7248ad28157dc48cf3a3a5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026d7248ad28157dc48cf3a3a5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516d7248ad28157dc48cf3a3a5",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn It Feels Good To Be Me",
+                "release_date": "2021-09-08",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4gi9J69znig8ZUb9OhdUCs"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6xQOnTeQcYwEHAFZEOutSA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6xQOnTeQcYwEHAFZEOutSA",
+                        "id": "6xQOnTeQcYwEHAFZEOutSA",
+                        "name": "The Original Broadway Cast of Damn Yankees",
+                        "type": "artist",
+                        "uri": "spotify:artist:6xQOnTeQcYwEHAFZEOutSA"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2UrMaFzBhKMiyu4UodLkiM"
+                },
+                "href": "https://api.spotify.com/v1/albums/2UrMaFzBhKMiyu4UodLkiM",
+                "id": "2UrMaFzBhKMiyu4UodLkiM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e3fc2c7233d4b816eca61de4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e3fc2c7233d4b816eca61de4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e3fc2c7233d4b816eca61de4",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn Yankees (Original Broadway Cast Recording)",
+                "release_date": "1955",
+                "release_date_precision": "year",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:2UrMaFzBhKMiyu4UodLkiM"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sTQVOfp9vEMCemLw50sbu",
+                        "id": "4sTQVOfp9vEMCemLw50sbu",
+                        "name": "Galantis",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+                        "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+                        "name": "David Guetta",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7uMh23xWiuR7zsNkuNcm2G",
+                        "id": "7uMh23xWiuR7zsNkuNcm2G",
+                        "name": "MNEK",
+                        "type": "artist",
+                        "uri": "spotify:artist:7uMh23xWiuR7zsNkuNcm2G"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
+                },
+                "href": "https://api.spotify.com/v1/albums/53i5TggV9rLa7XBaDbD8Hp",
+                "id": "53i5TggV9rLa7XBaDbD8Hp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aec09ec9e4bb94f395366527",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aec09ec9e4bb94f395366527",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aec09ec9e4bb94f395366527",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn (You’ve Got Me Saying)",
+                "release_date": "2022-11-11",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:53i5TggV9rLa7XBaDbD8Hp"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+                        "id": "4tX2TplrkIP4v05BNC903e",
+                        "name": "Tom Petty and the Heartbreakers",
+                        "type": "artist",
+                        "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0qKA3aqubD47jfFVoPfsiy"
+                },
+                "href": "https://api.spotify.com/v1/albums/0qKA3aqubD47jfFVoPfsiy",
+                "id": "0qKA3aqubD47jfFVoPfsiy",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27341790be98b0b04beed520b34",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0241790be98b0b04beed520b34",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485141790be98b0b04beed520b34",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn The Torpedoes (Remastered)",
+                "release_date": "1979-10-19",
+                "release_date_precision": "day",
+                "total_tracks": 9,
+                "type": "album",
+                "uri": "spotify:album:0qKA3aqubD47jfFVoPfsiy"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6bDWAcdtVR3WHz2xtiIPUi",
+                        "id": "6bDWAcdtVR3WHz2xtiIPUi",
+                        "name": "Fujii Kaze",
+                        "type": "artist",
+                        "uri": "spotify:artist:6bDWAcdtVR3WHz2xtiIPUi"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3xMDL5v9ftUpE1I7XPO8oR"
+                },
+                "href": "https://api.spotify.com/v1/albums/3xMDL5v9ftUpE1I7XPO8oR",
+                "id": "3xMDL5v9ftUpE1I7XPO8oR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bfa934512aadf41fea62a58b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bfa934512aadf41fea62a58b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bfa934512aadf41fea62a58b",
+                        "width": 64
+                    }
+                ],
+                "name": "damn",
+                "release_date": "2022-09-30",
+                "release_date_precision": "day",
+                "total_tracks": 3,
+                "type": "album",
+                "uri": "spotify:album:3xMDL5v9ftUpE1I7XPO8oR"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7ihLzUpuNecU5VBkvOUDNq",
+                        "id": "7ihLzUpuNecU5VBkvOUDNq",
+                        "name": "Damn Yankees",
+                        "type": "artist",
+                        "uri": "spotify:artist:7ihLzUpuNecU5VBkvOUDNq"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+                },
+                "href": "https://api.spotify.com/v1/albums/2GSZ2kruaBmA5hR9xngeBX",
+                "id": "2GSZ2kruaBmA5hR9xngeBX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733be83b801fd12ca23e30f8b1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023be83b801fd12ca23e30f8b1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513be83b801fd12ca23e30f8b1",
+                        "width": 64
+                    }
+                ],
+                "name": "Damn Yankees",
+                "release_date": "1990",
+                "release_date_precision": "year",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:2GSZ2kruaBmA5hR9xngeBX"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                        "id": "0ybFZ2Ab08V8hueghSXm6E",
+                        "name": "Opeth",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
+                },
+                "href": "https://api.spotify.com/v1/albums/4FmI0F5GvvR1M9RURWnJV9",
+                "id": "4FmI0F5GvvR1M9RURWnJV9",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d703747193c3d6d1cb12173",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d703747193c3d6d1cb12173",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513d703747193c3d6d1cb12173",
+                        "width": 64
+                    }
+                ],
+                "name": "Damnation",
+                "release_date": "2003-04-22",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:4FmI0F5GvvR1M9RURWnJV9"
+            }
+        ],
+        "limit": 24,
+        "next": "https://api.spotify.com/v1/search?query=damn&type=album&market=US&offset=24&limit=24",
+        "offset": 0,
+        "previous": null,
+        "total": 11152
+    }
+}

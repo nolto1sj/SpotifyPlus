@@ -52,3 +52,7 @@ C:\Users\switc\Source\Repos\SpotifyPlus\obj\Debug\net6.0\refint\SpotifyPlus.dll
 C:\Users\switc\Source\Repos\SpotifyPlus\obj\Debug\net6.0\SpotifyPlus.pdb
 C:\Users\switc\Source\Repos\SpotifyPlus\obj\Debug\net6.0\SpotifyPlus.genruntimeconfig.cache
 C:\Users\switc\Source\Repos\SpotifyPlus\obj\Debug\net6.0\ref\SpotifyPlus.dll
+C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\albumSearch.json
+C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\artistSearch.json
+C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\playList.json
+C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\TrackSearch.json
