@@ -1,6 +1,8 @@
 ﻿using System.Net.Http.Headers;
+using Newtonsoft.Json;
+using SpotifyPlus.Services.Auth;
 
-namespace SpotifyPlus.Services
+namespace SpotifyPlus.Services.SpotifyService
 {
     public class SpotifyService
     {
@@ -19,15 +21,16 @@ namespace SpotifyPlus.Services
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             using HttpResponseMessage response = await client.GetAsync($"{BaseUrl}{endPoint}");
             string responseBody = await response.Content.ReadAsStringAsync();
+            dynamic json = JsonConvert.DeserializeObject(responseBody);
             return response;
         }
 
-        public async Task<List<SearchItem>> Search(string searchQuery)
-        {
-            var result = new List<SearchItem>();
-            var stringResponse = await (await Get($"search?q={searchQuery}&type=album&market=US&limit=24")).Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<List<SearchItem>(stringResponse);
-        }
+        //public async Task<List<SearchItem>> Search(string searchQuery)
+        //{
+        //    var result = new List<SearchItem>();
+        //    var stringResponse = await (await Get($"search?q={searchQuery}&type=album&market=US&limit=24")).Content.ReadAsStringAsync();
+        //    return JsonConvert.DeserializeObject<List<SearchItem>(stringResponse);
+        //}
     }
 
 }

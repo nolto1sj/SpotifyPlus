@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace SpotifyPlus.Services
+namespace SpotifyPlus.Services.Auth
 {
     public class SpotifyAuthToken
     {
@@ -29,9 +29,9 @@ namespace SpotifyPlus.Services
 
         public async Task<bool> RefreshAuthToken()
         {
-            var clientInfo = System.Text.Encoding.UTF8.GetBytes(this._clientId + ":" + this._clientSecret);
-           
-            client.DefaultRequestHeaders.Add("Authorization", $"Basic {System.Convert.ToBase64String(clientInfo)}");
+            var clientInfo = System.Text.Encoding.UTF8.GetBytes(_clientId + ":" + _clientSecret);
+
+            client.DefaultRequestHeaders.Add("Authorization", $"Basic {Convert.ToBase64String(clientInfo)}");
             try
             {
                 var values = new Dictionary<string, string>

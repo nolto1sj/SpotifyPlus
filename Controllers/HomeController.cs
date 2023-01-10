@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SpotifyPlus.Models;
-using SpotifyPlus.Services;
+using SpotifyPlus.Services.SpotifyService;
+using SpotifyPlus.Services.SpotifyService.Search;
 using System.Diagnostics;
 
 namespace SpotifyPlus.Controllers
@@ -17,7 +18,7 @@ namespace SpotifyPlus.Controllers
 
         public async Task<IActionResult> Index()
         {
-            await _spotifyService.Get("search?q=damn&type=album&market=US&limit=24");
+            await _spotifyService.Get($"search?q=damn&type={SearchType.Artist}&market=US&limit=24");
             return View();
         }
 
