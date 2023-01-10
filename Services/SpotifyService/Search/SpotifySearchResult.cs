@@ -1,10 +1,15 @@
-﻿namespace SpotifyPlus.Services.Search
+﻿using Newtonsoft.Json;
+using SpotifyPlus.Services.Search;
+
+namespace SpotifyPlus.Services.SpotifyService.Search
 {
     public class SpotifySearchResult
     {
-        int Limit;
-        int Total;
-        int Offset;
-        List<SpotifySearchItem> SearchItems;
+        public int Limit;
+        public int Total;
+        public int Offset;
+
+        [JsonProperty("items")]
+        List<SpotifySearchItemBase> SearchItems;
     }
 }

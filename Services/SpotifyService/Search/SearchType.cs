@@ -1,13 +1,13 @@
 ﻿namespace SpotifyPlus.Services.SpotifyService.Search
 {
-    public enum SearchType
+    public enum SpotifyItemType
     {
-        Album,
-        Artist,
-        Playlist,
-        Track,
-        Show,
-        Episode,
-        AudioBook
+        album,
+        artist,
+        playlist,
+        track,
+        show,
+        episode,
+        audioBook
     }
 }

@@ -1,6 +1,9 @@
 ﻿using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using SpotifyPlus.Services.Auth;
+using SpotifyPlus.Services.Converters;
+using SpotifyPlus.Services.Search;
+using SpotifyPlus.Services.SpotifyService.Search;
 
 namespace SpotifyPlus.Services.SpotifyService
 {
@@ -21,7 +24,7 @@ namespace SpotifyPlus.Services.SpotifyService
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             using HttpResponseMessage response = await client.GetAsync($"{BaseUrl}{endPoint}");
             string responseBody = await response.Content.ReadAsStringAsync();
-            dynamic json = JsonConvert.DeserializeObject(responseBody);
+            SpotifySearchResultRoot json = JsonConvert.DeserializeObject<SpotifySearchResultRoot>(responseBody, new SearchItemConverter());
             return response;
         }
 
