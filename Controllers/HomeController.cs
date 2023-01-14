@@ -18,7 +18,7 @@ namespace SpotifyPlus.Controllers
 
         public async Task<IActionResult> Index()
         {
-            await _spotifyService.Get($"search?q=damn&type=album&market=US&limit=24");
+            await _spotifyService.Search($"search?q=damn&type={SpotifyItemType.track}&market=US&limit=24");
             return View();
         }
 

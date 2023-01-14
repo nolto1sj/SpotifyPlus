@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using SpotifyPlus.Services.Search;
+using SpotifyPlus.Services.SpotifyService.Search.Modals.SearchItems;
 
 namespace SpotifyPlus.Services.SpotifyService.Search
 {

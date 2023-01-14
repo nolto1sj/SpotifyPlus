@@ -56,3 +56,4 @@ C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\albumSearch.js
 C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\artistSearch.json
 C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\playList.json
 C:\Users\switc\Source\Repos\SpotifyPlus\bin\Debug\net6.0\TestData\TrackSearch.json
+C:\Users\switc\source\repos\SpotifyPlus\bin\Debug\net6.0\TestData\test.json

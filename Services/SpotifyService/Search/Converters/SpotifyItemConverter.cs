@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using SpotifyPlus.Services.Search;
 using SpotifyPlus.Services.SpotifyService.Search;
+using SpotifyPlus.Services.SpotifyService.Search.Modals.SearchItems;
 
 namespace SpotifyPlus.Services.Converters
 {
@@ -25,6 +25,14 @@ namespace SpotifyPlus.Services.Converters
             if(searchItem.Type == SpotifyItemType.album)
             {
                 return jObject.ToObject<SpotifySearchItemAlbum>();
+            }
+            else if (searchItem.Type == SpotifyItemType.artist)
+            {
+                return jObject.ToObject<SpotifySearchItemArtist>();
+            }
+            else if (searchItem.Type == SpotifyItemType.track)
+            {
+                return jObject.ToObject<SpotifySearchItemTrack>();
             }
             return null;
         }

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using SpotifyPlus.Services.SpotifyService.Search;
 
-namespace SpotifyPlus.Services.Search
+namespace SpotifyPlus.Services.SpotifyService.Search.Modals.SearchItems
 {
     public class SpotifySearchItemBase
     {
@@ -18,6 +18,6 @@ namespace SpotifyPlus.Services.Search
         [JsonProperty("external_urls")]
         public ExternalLinks ExternalLinks;
 
-        //public List<SpotifySearchImage> Images;
+        public List<SpotifySearchImage> Images;
     }
 }

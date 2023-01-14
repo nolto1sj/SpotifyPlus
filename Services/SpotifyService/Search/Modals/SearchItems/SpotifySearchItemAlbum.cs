@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
-using SpotifyPlus.Services.Search;
 
-namespace SpotifyPlus.Services.SpotifyService.Search
+namespace SpotifyPlus.Services.SpotifyService.Search.Modals.SearchItems
 {
     public enum AlbumType
     {
@@ -21,8 +20,6 @@ namespace SpotifyPlus.Services.SpotifyService.Search
 
         public List<SpotifySearchItemBase> Artists;
 
-        public List<SpotifySearchImage> Images;
-        
         //[JsonProperty("release_date")]
         //public DateTime ReleaseDate;
 

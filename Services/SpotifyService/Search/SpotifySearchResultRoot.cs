@@ -7,7 +7,8 @@ namespace SpotifyPlus.Services.Search
     {
         albums,
         tracks,
-        playlists
+        playlists,
+        artists
     }
     public class SpotifySearchResultRoot : Dictionary<SpotifySearchGroup, SpotifySearchResult>
     {
